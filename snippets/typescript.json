@@ -14,7 +14,7 @@
       "",
       "export default ${ComponentName}"
     ],
-    "description": "react Component snippet quick start with typescript"
+    "description": "Make a Typescript React Component snippet"
   },
   "trs": {
     "prefix": "trs",
@@ -29,7 +29,6 @@
       "",
       "export default ${ComponentName}"
     ],
-    "description":
-      "react Stateless Component snippet quick start with typescript"
+    "description": "Make a Typescript React Stateless Component snippet"
   }
 }
