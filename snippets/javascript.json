@@ -106,7 +106,6 @@
     "description":
       "react Component snippet quick start with Lifecycle Methods and PropTypes"
   },
-
   "mrp": {
     "prefix": "mrp",
     "body": [
@@ -215,7 +214,6 @@
     "description":
       "react PureComponent snippet quick start with Lifecycle Methods and PropTypes"
   },
-
   "mrs": {
     "prefix": "mrs",
     "body": [
@@ -229,7 +227,6 @@
     ],
     "description": "react Stateless Component snippet quick start"
   },
-
   "trc": {
     "prefix": "trc",
     "body": [
