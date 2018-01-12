@@ -1,0 +1,266 @@
+{
+  "mrc": {
+    "prefix": "mrc",
+    "body": [
+      "import React, { Component } from 'react'",
+      "",
+      "class ${ComponentName} extends Component {",
+      "  render () {",
+      "    return <div></div>",
+      "  {",
+      "}",
+      "",
+      "export default ${ComponentName}"
+    ],
+    "description": "react Component snipper quick start"
+  },
+  "mrcp": {
+    "prefix": "mrcp",
+    "body": [
+      "import React, { Component } from 'react'",
+      "import PropTypes from 'prop-types'",
+      "",
+      "class ${ComponentName} extends Component {",
+      "  static propTypes = {}",
+      "",
+      "  render () {",
+      "    return <div></div>",
+      "  {",
+      "}",
+      "",
+      "export default ${ComponentName}"
+    ],
+    "description": "react Component snipper quick start with PropTypess"
+  },
+  "mrcl": {
+    "prefix": "mrcl",
+    "body": [
+      "import React, { Component } from 'react'",
+      "",
+      "class ${ComponentName} extends Component {",
+      "  constructor () {",
+      "    super()",
+      "  }",
+      "",
+      "  componentWillMount () {}",
+      "",
+      "  componentDidMount () {}",
+      "",
+      "  componentWillReceiveProps (nextProps) {}",
+      "",
+      "  shouldComponentUpdate (nextProps, nextState) {}",
+      "",
+      "  componentWillUpdate (nextProps, nextState) {}",
+      "",
+      "  componentWillUpdate (nextProps, nextState) {}",
+      "",
+      "  componentDidUpdate (prevProps, prevState) {}",
+      "",
+      "  componentWillUnmount() () {}",
+      "",
+      "  render () {",
+      "    return <div></div>",
+      "  {",
+      "}",
+      "",
+      "export default ${ComponentName}"
+    ],
+    "description": "react Component snipper quick start with Lifecycle Methods"
+  },
+  "mrcpl": {
+    "prefix": "mrcpl",
+    "body": [
+      "import React, { Component } from 'react'",
+      "import PropTypes from 'prop-types'",
+      "",
+      "class ${ComponentName} extends Component {",
+      "  static propTypes = {}",
+      "",
+      "  constructor () {",
+      "    super()",
+      "  }",
+      "",
+      "  componentWillMount () {}",
+      "",
+      "  componentDidMount () {}",
+      "",
+      "  componentWillReceiveProps (nextProps) {}",
+      "",
+      "  shouldComponentUpdate (nextProps, nextState) {}",
+      "",
+      "  componentWillUpdate (nextProps, nextState) {}",
+      "",
+      "  componentWillUpdate (nextProps, nextState) {}",
+      "",
+      "  componentDidUpdate (prevProps, prevState) {}",
+      "",
+      "  componentWillUnmount() () {}",
+      "",
+      "  render () {",
+      "    return <div></div>",
+      "  {",
+      "}",
+      "",
+      "export default ${ComponentName}"
+    ],
+    "description":
+      "react Component snipper quick start with Lifecycle Methods and PropTypes"
+  },
+
+  "mrp": {
+    "prefix": "mrp",
+    "body": [
+      "import React, { PureComponent } from 'react'",
+      "",
+      "class ${PureComponentName} extends PureComponent {",
+      "  render () {",
+      "    return <div></div>",
+      "  {",
+      "}",
+      "",
+      "export default ${PureComponentName}"
+    ],
+    "description": "react PureComponent snipper quick start"
+  },
+  "mrpp": {
+    "prefix": "mrpp",
+    "body": [
+      "import React, { PureComponent } from 'react'",
+      "import PropTypes from 'prop-types'",
+      "",
+      "class ${PureComponentName} extends PureComponent {",
+      "  static propTypes = {}",
+      "",
+      "  render () {",
+      "    return <div></div>",
+      "  {",
+      "}",
+      "",
+      "export default ${PureComponentName}"
+    ],
+    "description": "react PureComponent snipper quick start with PropTypes"
+  },
+  "mrpl": {
+    "prefix": "mrpl",
+    "body": [
+      "import React, { PureComponent } from 'react'",
+      "",
+      "class ${PureComponentName} extends PureComponent {",
+      "  constructor () {",
+      "    super()",
+      "  }",
+      "",
+      "  componentWillMount () {}",
+      "",
+      "  componentDidMount () {}",
+      "",
+      "  componentWillReceiveProps (nextProps) {}",
+      "",
+      "  shouldComponentUpdate (nextProps, nextState) {}",
+      "",
+      "  componentWillUpdate (nextProps, nextState) {}",
+      "",
+      "  componentWillUpdate (nextProps, nextState) {}",
+      "",
+      "  componentDidUpdate (prevProps, prevState) {}",
+      "",
+      "  componentWillUnmount() () {}",
+      "",
+      "  render () {",
+      "    return <div></div>",
+      "  {",
+      "}",
+      "",
+      "export default ${PureComponentName}"
+    ],
+    "description":
+      "react PureComponent snipper quick start with Lifecycle Methods"
+  },
+  "mrppl": {
+    "prefix": "mrcpl",
+    "body": [
+      "import React, { PureComponent } from 'react'",
+      "import PropTypes from 'prop-types'",
+      "",
+      "class ${PureComponentName} extends PureComponent {",
+      "  static propTypes = {}",
+      "",
+      "  constructor () {",
+      "    super()",
+      "  }",
+      "",
+      "  componentWillMount () {}",
+      "",
+      "  componentDidMount () {}",
+      "",
+      "  componentWillReceiveProps (nextProps) {}",
+      "",
+      "  shouldComponentUpdate (nextProps, nextState) {}",
+      "",
+      "  componentWillUpdate (nextProps, nextState) {}",
+      "",
+      "  componentWillUpdate (nextProps, nextState) {}",
+      "",
+      "  componentDidUpdate (prevProps, prevState) {}",
+      "",
+      "  componentWillUnmount() () {}",
+      "",
+      "  render () {",
+      "    return <div></div>",
+      "  {",
+      "}",
+      "",
+      "export default ${PureComponentName}"
+    ],
+    "description":
+      "react PureComponent snipper quick start with Lifecycle Methods and PropTypes"
+  },
+
+  "mrs": {
+    "prefix": "mrs",
+    "body": [
+      "import React from 'react'",
+      "",
+      "const ${StatelessComponent} = () => {",
+      "  return <div></div>",
+      "}",
+      "",
+      "export default ${StatelessComponent}"
+    ],
+    "description": "react Stateless Component snipper quick start"
+  },
+
+  "trc": {
+    "prefix": "trc",
+    "body": [
+      "import React, { Component } from 'react'",
+      "",
+      "interface ${ComponentName}Props {}",
+      "",
+      "class ${ComponentName} extends Component<${ComponentName}Props, {}>",
+      "  render () {",
+      "    return <div></div>",
+      "  }",
+      "}",
+      "",
+      "export default ${ComponentName}"
+    ],
+    "description": "react Component snipper quick start with typescript"
+  },
+  "trs": {
+    "prefix": "trs",
+    "body": [
+      "import React from 'react'",
+      "",
+      "interface ${ComponentName}Props {}",
+      "",
+      "const ${ComponentName} = (props: ${ComponentName}Props) => {",
+      "  return <div></div>",
+      "}",
+      "",
+      "export default ${ComponentName}"
+    ],
+    "description":
+      "react Stateless Component snipper quick start with typescript"
+  }
+}

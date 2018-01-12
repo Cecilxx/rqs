@@ -1,0 +1,36 @@
+{
+    "name": "dwt",
+    "displayName": "Dynamic Web TWAIN",
+    "description": "Dynamic Web TWAIN is a browser-based document scanning SDK specifically designed for web applications. With just a few lines of JavaScript code, you can develop robust applications to scan documents.",
+    "version": "0.0.4",
+    "publisher": "Dynamsoft",
+    "icon": "images/dwt.jpg",
+    "categories": [
+        "Snippets"
+    ],
+    "galleryBanner": {
+        "color": "#f5f3f4",
+        "theme": "light"
+    },
+    "homepage": "http://www.dynamsoft.com/Products/WebTWAIN_Overview.aspx",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dynamsoft/Dynamic-Web-TWAIN.git"
+    },
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "keywords": [
+        "JavaScript TWAIN",
+        "JavaScript scan",
+        "Document scanning",
+        "Document management",
+        "Web TWAIN"
+    ],
+    "contributes": {
+        "snippets": [{
+            "language": "html",
+            "path": "./snippets/html.json"
+        }]
+    }
+}
