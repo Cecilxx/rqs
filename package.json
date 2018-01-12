@@ -4,7 +4,7 @@
   "description":
     "Make a React Component snippet quickly in JavaScript or TypeScript",
   "version": "0.0.1",
-  "publisher": "Cecil Liu",
+  "publisher": "Cecil",
   "icon": "images/rqs.png",
   "categories": ["Snippets"],
   "galleryBanner": {},
