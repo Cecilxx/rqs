@@ -12,7 +12,7 @@
       "",
       "export default ${ComponentName}"
     ],
-    "description": "react Component snipper quick start"
+    "description": "react Component snippet quick start"
   },
   "mrcp": {
     "prefix": "mrcp",
@@ -30,7 +30,7 @@
       "",
       "export default ${ComponentName}"
     ],
-    "description": "react Component snipper quick start with PropTypess"
+    "description": "react Component snippet quick start with PropTypess"
   },
   "mrcl": {
     "prefix": "mrcl",
@@ -65,7 +65,7 @@
       "",
       "export default ${ComponentName}"
     ],
-    "description": "react Component snipper quick start with Lifecycle Methods"
+    "description": "react Component snippet quick start with Lifecycle Methods"
   },
   "mrcpl": {
     "prefix": "mrcpl",
@@ -104,7 +104,7 @@
       "export default ${ComponentName}"
     ],
     "description":
-      "react Component snipper quick start with Lifecycle Methods and PropTypes"
+      "react Component snippet quick start with Lifecycle Methods and PropTypes"
   },
 
   "mrp": {
@@ -120,7 +120,7 @@
       "",
       "export default ${PureComponentName}"
     ],
-    "description": "react PureComponent snipper quick start"
+    "description": "react PureComponent snippet quick start"
   },
   "mrpp": {
     "prefix": "mrpp",
@@ -138,7 +138,7 @@
       "",
       "export default ${PureComponentName}"
     ],
-    "description": "react PureComponent snipper quick start with PropTypes"
+    "description": "react PureComponent snippet quick start with PropTypes"
   },
   "mrpl": {
     "prefix": "mrpl",
@@ -174,7 +174,7 @@
       "export default ${PureComponentName}"
     ],
     "description":
-      "react PureComponent snipper quick start with Lifecycle Methods"
+      "react PureComponent snippet quick start with Lifecycle Methods"
   },
   "mrppl": {
     "prefix": "mrcpl",
@@ -213,7 +213,7 @@
       "export default ${PureComponentName}"
     ],
     "description":
-      "react PureComponent snipper quick start with Lifecycle Methods and PropTypes"
+      "react PureComponent snippet quick start with Lifecycle Methods and PropTypes"
   },
 
   "mrs": {
@@ -227,7 +227,7 @@
       "",
       "export default ${StatelessComponent}"
     ],
-    "description": "react Stateless Component snipper quick start"
+    "description": "react Stateless Component snippet quick start"
   },
 
   "trc": {
@@ -245,7 +245,7 @@
       "",
       "export default ${ComponentName}"
     ],
-    "description": "react Component snipper quick start with typescript"
+    "description": "react Component snippet quick start with typescript"
   },
   "trs": {
     "prefix": "trs",
@@ -261,6 +261,6 @@
       "export default ${ComponentName}"
     ],
     "description":
-      "react Stateless Component snipper quick start with typescript"
+      "react Stateless Component snippet quick start with typescript"
   }
 }

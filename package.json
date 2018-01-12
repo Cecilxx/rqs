@@ -1,0 +1,36 @@
+{
+  "name": "RQS",
+  "displayName": "React Quick Snippets",
+  "description": "Make a React Component quickly with js or ts",
+  "version": "0.0.1",
+  "publisher": "Cecil",
+  "icon": "images/rqs.jpg",
+  "categories": ["Snippets"],
+  "galleryBanner": {},
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cecilxx/rqs.git"
+  },
+  "engines": {
+    "vscode": "^1.19.0"
+  },
+  "keywords": [
+    "React",
+    "React Snippet",
+    "JavaScript React Snippet",
+    "TypeScript React Snippet"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/rqs.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/trqs.json"
+      }
+    ]
+  }
+}

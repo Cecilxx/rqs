@@ -1,0 +1,35 @@
+{
+  "trc": {
+    "prefix": "trc",
+    "body": [
+      "import React, { Component } from 'react'",
+      "",
+      "interface ${ComponentName}Props {}",
+      "",
+      "class ${ComponentName} extends Component<${ComponentName}Props, {}>",
+      "  render () {",
+      "    return <div></div>",
+      "  }",
+      "}",
+      "",
+      "export default ${ComponentName}"
+    ],
+    "description": "react Component snippet quick start with typescript"
+  },
+  "trs": {
+    "prefix": "trs",
+    "body": [
+      "import React from 'react'",
+      "",
+      "interface ${ComponentName}Props {}",
+      "",
+      "const ${ComponentName} = (props: ${ComponentName}Props) => {",
+      "  return <div></div>",
+      "}",
+      "",
+      "export default ${ComponentName}"
+    ],
+    "description":
+      "react Stateless Component snippet quick start with typescript"
+  }
+}
