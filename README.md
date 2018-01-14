@@ -26,4 +26,4 @@
 
 ## Example
 
-![](https://rqs.visualstudio.com/_git/MyFirstProject?path=%2Fimages%2Fexample.gif&version=GBmaster)
+![](images/example.gif)
