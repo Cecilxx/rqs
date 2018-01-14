@@ -26,4 +26,4 @@
 
 ## Example
 
-![](images/example.gif)
+![](https://github.com/Cecilxx/rqs/blob/master/images/example.gif)
