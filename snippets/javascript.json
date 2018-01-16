@@ -7,7 +7,7 @@
       "class ${ComponentName} extends Component {",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${ComponentName}"
@@ -25,7 +25,7 @@
       "",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${ComponentName}"
@@ -52,15 +52,13 @@
       "",
       "  componentWillUpdate (nextProps, nextState) {}",
       "",
-      "  componentWillUpdate (nextProps, nextState) {}",
-      "",
       "  componentDidUpdate (prevProps, prevState) {}",
       "",
       "  componentWillUnmount() () {}",
       "",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${ComponentName}"
@@ -98,13 +96,12 @@
       "",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${ComponentName}"
     ],
-    "description":
-      "Make a react Component snippet with Lifecycle Methods and PropTypes"
+    "description": "Make a react Component snippet with Lifecycle Methods and PropTypes"
   },
   "mrp": {
     "prefix": "mrp",
@@ -114,7 +111,7 @@
       "class ${PureComponentName} extends PureComponent {",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${PureComponentName}"
@@ -132,7 +129,7 @@
       "",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${PureComponentName}"
@@ -167,7 +164,7 @@
       "",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${PureComponentName}"
@@ -205,13 +202,12 @@
       "",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${PureComponentName}"
     ],
-    "description":
-      "Make a react PureComponent snippet with Lifecycle Methods and PropTypes"
+    "description": "Make a react PureComponent snippet with Lifecycle Methods and PropTypes"
   },
   "mrs": {
     "prefix": "mrs",
@@ -225,5 +221,87 @@
       "export default ${StatelessComponent}"
     ],
     "description": "Make a react Stateless Component snippet"
+  },
+  "constructor": {
+    "prefix": "cons",
+    "body": [
+      "constructor (props) {",
+      "  super(props)",
+      "  $1",
+      "}"
+    ],
+    "description": "React Constructor function"
+  },
+  "componentWillMount": {
+    "prefix": "comw",
+    "body": [
+      "componentWillMount () {",
+      "  $1",
+      "}"
+    ],
+    "description": "React componentWillMount function"
+  },
+  "componentDidMount": {
+    "prefix": "comd",
+    "body": [
+      "componentDidMount () {",
+      "  $1",
+      "}"
+    ],
+    "description": "React componentDidMount function"
+  },
+  "componentWillUnmount": {
+    "prefix": "comwu",
+    "body": [
+      "componentWillUnmount () {",
+      "  $1",
+      "}"
+    ],
+    "description": "React componentWillUnmount function"
+  },
+  "componentWillReceiveProps": {
+    "prefix": "comwrp",
+    "body": [
+      "componentWillReceiveProps (nextProps) {",
+      "  $1",
+      "}"
+    ],
+    "description": "React componentWillReceiveProps function"
+  },
+  "shouldComponentUpdate": {
+    "prefix": "shou",
+    "body": [
+      "shouldComponentUpdate (nextProps, nextState) {",
+      "  $1",
+      "}"
+    ],
+    "description": "React shouldComponentUpdate function"
+  },
+  "componentWillUpdate": {
+    "prefix": "comwup",
+    "body": [
+      "componentWillUpdate (nextProps, nextState) {",
+      "  $1",
+      "}"
+    ],
+    "description": "React componentWillUpdate function"
+  },
+  "componentDidUpdate": {
+    "prefix": "comdup",
+    "body": [
+      "componentDidUpdate (nextProps, nextState) {",
+      "  $1",
+      "}"
+    ],
+    "description": "React componentDidUpdate function"
+  },
+  "render": {
+    "prefix": "ren",
+    "body": [
+      "render () {",
+      "  return <div>$1</div>",
+      "}"
+    ],
+    "description": "React render function"
   }
 }
