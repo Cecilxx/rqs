@@ -26,4 +26,4 @@
 
 ## Example
 
-<!-- ![](images/example.gif) -->
+![](images/example.gif)
