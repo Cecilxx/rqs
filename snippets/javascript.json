@@ -7,7 +7,7 @@
       "class ${ComponentName} extends Component {",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${ComponentName}"
@@ -25,7 +25,7 @@
       "",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${ComponentName}"
@@ -58,7 +58,7 @@
       "",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${ComponentName}"
@@ -96,7 +96,7 @@
       "",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${ComponentName}"
@@ -111,7 +111,7 @@
       "class ${PureComponentName} extends PureComponent {",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${PureComponentName}"
@@ -129,7 +129,7 @@
       "",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${PureComponentName}"
@@ -164,7 +164,7 @@
       "",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${PureComponentName}"
@@ -202,7 +202,7 @@
       "",
       "  render () {",
       "    return <div></div>",
-      "  {",
+      "  }",
       "}",
       "",
       "export default ${PureComponentName}"
