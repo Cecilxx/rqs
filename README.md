@@ -28,15 +28,15 @@
 
 | Prefix |                                  Description                                  |      Support Identifier      |
 | ------ | :---------------------------------------------------------------------------: | :--------------------------: |
-| cons   |                        React  constrcutor function                            | javascript & javascriptreact |
-| comw   |                 React componentWillMount function                             | javascript & javascriptreact |
-| comd   |          React componenDidMount function                                      | javascript & javascriptreact |
-| comwu  |   React componentWillUnmount function                                         | javascript & javascriptreact |
-| comwrp |                      React compontentWillReceiveProps function                | javascript & javascriptreact |
-| shou   |               React shouldComponentUpdate function                            | javascript & javascriptreact |
-| comwup |           React componentWillUpdate function                                  | javascript & javascriptreact |
-| comdup |   React componentDidUpdate function                                           | javascript & javascriptreact |
-| ren    |                  React render function                                        | javascript & javascriptreact |
+| cons   |  React  constrcutor function                                                  | javascript & javascriptreact |
+| comw   |  React componentWillMount function                                            | javascript & javascriptreact |
+| comd   |  React componenDidMount function                                              | javascript & javascriptreact |
+| comwu  |  React componentWillUnmount function                                          | javascript & javascriptreact |
+| comwrp |  React compontentWillReceiveProps function                                    | javascript & javascriptreact |
+| shou   |  React shouldComponentUpdate function                                         | javascript & javascriptreact |
+| comwup |  React componentWillUpdate function                                           | javascript & javascriptreact |
+| comdup |  React componentDidUpdate function                                            | javascript & javascriptreact |
+| ren    |  React render function                                                        | javascript & javascriptreact |
 
 ## Example
 
