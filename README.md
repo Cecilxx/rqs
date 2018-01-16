@@ -40,4 +40,4 @@
 
 ## Example
 
-![](https://raw.githubusercontent.com/Cecilxx/rqs/master/images/example.gif)
+![](images/example.gif)
