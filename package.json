@@ -3,7 +3,7 @@
   "displayName": "React Quick Snippets",
   "description":
     "Make a React Component snippet quickly in JavaScript or TypeScript",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "publisher": "Cecil",
   "icon": "images/rqs.png",
   "categories": ["Snippets"],
